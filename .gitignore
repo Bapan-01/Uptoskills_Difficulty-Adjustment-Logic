@@ -1,1 +1,2 @@
-lcov.info
+coverage/
+node_modules/
